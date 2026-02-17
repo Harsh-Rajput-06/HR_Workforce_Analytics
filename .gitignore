@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Anaconda
+.anaconda/
+.conda/
+anaconda_projects/
+
+# Virtual environments
+venv/
+env/
+.virtual_documents/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large datasets (optional)
+Dataset/raw/

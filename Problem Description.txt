@@ -1,0 +1,17 @@
+Company Problem :
+
+-> The company is noticing that many employees are leaving their jobs.
+
+The management wants to understand:
+
+1. Why are employees leaving the company?
+
+2. Which departments have the highest number of employees leaving?
+
+3. Does low salary increase the chances of leaving?
+
+4. Does working overtime affect employee decisions?
+
+5. How long do employees usually stay before leaving?
+
+6. Are certain age groups or job roles more likely to leave?
